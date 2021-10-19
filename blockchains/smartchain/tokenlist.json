@@ -14,6 +14,9 @@
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
             "pairs": [
                 {
+                    "base": "c20000714_t0x3b427c2e6e8f5e663d96f6f5993d4eed13b17426"
+                },
+                {
                     "base": "c20000714_t0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153"
                 },
                 {
@@ -298,6 +301,16 @@
             "symbol": "UST",
             "decimals": 18,
             "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x23396cF899Ca06c4472205fC903bDB4de249D6fC/logo.png",
+            "pairs": []
+        },
+        {
+            "asset": "0x3b427c2e6e8f5e663d96f6f5993d4eed13b17426",
+            "type": "BEP20",
+            "address": "0x3b427c2e6e8f5e663d96f6f5993d4eed13b17426",
+            "name": "EXA ACADEMY",
+            "symbol": "EXA",
+            "decimals": 9,
+            "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x3b427c2e6e8f5e663d96f6f5993d4eed13b17426/logo.png",
             "pairs": []
         },
         {
